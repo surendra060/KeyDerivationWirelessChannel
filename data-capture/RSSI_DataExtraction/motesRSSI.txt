@@ -1,0 +1,10 @@
+/dev/mote_jeenode201
+/dev/mote_jeenode202
+/dev/mote_jeenode203
+/dev/mote_jeenode204
+/dev/mote_jeenode205
+/dev/mote_jeenode206
+/dev/mote_jeenode207
+/dev/mote_jeenode208
+/dev/mote_jeenode209
+/dev/mote_jeenode210
