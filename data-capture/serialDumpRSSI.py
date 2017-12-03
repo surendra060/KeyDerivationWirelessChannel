@@ -1,5 +1,3 @@
-# correct output "filename" to be specified for writing data captured in arrays
-
 import serial,time,sys
 
 ser = serial.Serial('/dev/ttyUSB0',57600)
@@ -12,8 +10,7 @@ while 1 :
 	f.write(line)
 	f.close()
 	f = open(filename,'a')
-	print("Counter:")
-	print count
+		print("Counter"+count)
 	count = count+1
 	if count==4000:
 		exit()
