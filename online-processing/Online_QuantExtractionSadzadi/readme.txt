@@ -1,7 +1,8 @@
 ********************************************************************
 @ Surendra Sharma 
 
-Implementation of Measureent and Qunatization using JeeNode v5 Devices
+Implementation of ONline Procesing - RSS Measurement and Qunatization 
+using JeeNode v5 Devices
 ********************************************************************
 1. This program folder implements measurement, storage and recording of 
 RSS values and implenets Quantization scheme.
@@ -13,10 +14,10 @@ is required to be correctly updated/reflected in "makefile"
 and RX>15 in the main cpp program file). 
 
 4.	Commands :-
-	make - To compile and th ebinary is created in "bin fiolder" 
+	make - To compile and the binary is created in "bin fiolder" 
 	if the paths are correctly configured.
 	
-	make upload - to burn the binary in Arduiono (JeeNode) device flash
+	make upload - to burn the binary in Arduino (JeeNode) device flash
 	(ensure that the Node ID is correctly configured in main CPP file
 	before flashing)
 	
